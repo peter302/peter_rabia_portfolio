@@ -22,34 +22,61 @@ h1{
 }
 
 .card{
-    padding-left: 20%;
+    
+    padding: 10% 20% 50% 39% ;
     list-style-type: none;
     box-shadow: aqua;
+    color: rgb(45, 119, 116);
+    font-size: 25px;
+}
+#A{
+    background-color: rgb(181, 240, 220);
+    border-style: ridge;
+    border-radius: 50%;
+    font-size: 15px;
+
 }
 
 .navbar{
     float: left;
+    
 }
 
 header li{
     padding: 0px 10px;
 
     float: right;
-    color: rgb(6, 44, 31);
-
+    color: rgb(167, 240, 89);
+    font-style: oblique;
     font-weight: bolder;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 #zip{
-    margin-left: 35%;
-    color: white;
-    font-size: x-large;
+    margin-left: 30%;
+    color: rgb(16, 134, 120);
+    font-size:xx-large;
     margin-top: 20%;
+    font-family: URW Chancery L, cursive;
+
 }
 
 
 body {
     background-image: url("tested.jpg");
-    background-color: rgb(240, 217, 217);
+    background-color: rgb(250, 212, 212);
+
 }
+#Contactus{
+    margin-left: 40%;
+    font-size: 15px;
+    padding: 0% 50% 0% 0% ;
+}
+#welcome-section{
+    font-family: Snell Roundhand, cursive;
+    font-style: italic;
+    font-size: 30px;
+    color: rgb(150, 49, 49);
+
+}
+
